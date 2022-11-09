@@ -1,6 +1,6 @@
 # Hi there, I'm Riya 👋
 
-## I'm a MEAN stack developer!!
+## I'm a MEAN stack developer and love to work on backend algorithms :)
 
 - 🔭 Check out my repos here!
 - 🌱 I’m currently learning everything...
