@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything...
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Learn more about docker and kubernetes
-- ⚡ Fun fact: I love to write and watch f1.
+- ⚡ Fun fact: Call me a huge fan of hamilton ;)
 
 ### Languages and Tools:
 
